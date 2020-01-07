@@ -1,0 +1,3 @@
+/home/lima/leetcode/Data_structure/Insertion_Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lima/leetcode/Data_structure/Insertion_Sort/cmake-build-debug/CMakeFiles/Insert_Sort.dir
+/home/lima/leetcode/Data_structure/Insertion_Sort/cmake-build-debug/CMakeFiles/edit_cache.dir

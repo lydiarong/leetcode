@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Insert_Sort.dir/Insertion_Sort.cpp.o  -o Insert_Sort 

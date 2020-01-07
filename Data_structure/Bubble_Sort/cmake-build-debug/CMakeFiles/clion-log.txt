@@ -1,0 +1,4 @@
+/home/lima/clion-2019.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lima/leetcode/Data_structure/Bubble_Sort
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lima/leetcode/Data_structure/Bubble_Sort/cmake-build-debug
